@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(0, 21, 255);
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
+#box{
+    background-color: rgb(108, 0, 97);
+    width: 200px;
+    height: 200px;
+    border: 2px solid whitesmoke;
+    margin: auto;
+}
+#circle{
+    background-color: rgb(108, 0, 97);
+    width: 200px;
+    height: 200px;
+    border: 2px solid whitesmoke;
+    margin: auto;
+    border-radius: 100px;
+    text-align: center;
+}
+.box__text{
+   padding: 20px;
+}
+.circle__text{
+   padding: 20px;
+}
